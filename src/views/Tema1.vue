@@ -316,7 +316,7 @@
           h5 Figura 1.
           span Arqueo de caja menor.
         figure(data-aos="fade-up").ajuste-image__bloque3
-          img(src='@/assets/curso/tema1/img23.svg', alt='' style="max-width: 650px")
+          img(src='@/assets/curso/tema1/img23.svg', alt='Formulario de arqueo de caja menor que incluye campos para datos de la empresa, responsable del arqueo, fecha, saldo en libro, y desglose de efectivo en billetes, monedas, otros fondos, vales y facturas.' style="max-width: 650px")
         figcaption.mb-5.ajuste-fuente Fuente: <a href="http://media.actualicese.com/Arqueo-caja-menor.xls" target="_blank">http://media.actualicese.com/Arqueo-caja-menor.xls </a>
               
       .row.align-items-center.h-100.m-0.ajuste-espacios-movil
@@ -429,7 +429,7 @@
           h5 Figura 2.
           span Reembolso de caja menor
         figure(data-aos="fade-up").ajuste-image__bloque3-1.mb-4
-          img(src='@/assets/curso/tema1/img27.svg', alt='' style="max-width: 600px")
+          img(src='@/assets/curso/tema1/img27.svg', alt=' Imagen de reembolso de caja menor con fecha, valor del fondo, efectivo disponible y monto a reembolsar, acompañada de un listado de pagos realizados a diferentes proveedores por conceptos como elementos de aseo, papelería, transporte, almuerzos y gasolina, con sus respectivos valores.' style="max-width: 600px")
         
       .row.align-items-center
         .col-xl-1
@@ -508,7 +508,7 @@
           h5 Figura 3. 
           span Arqueo de caja menor
         figure(data-aos="fade-up").ajuste-image__bloque3-1
-          img(src='@/assets/curso/tema1/img32.svg', alt='' style="max-width: 600px")
+          img(src='@/assets/curso/tema1/img32.svg', alt='Formato de arqueo de caja menor con datos de la empresa, responsable del arqueo, fecha, saldo en libro y total en efectivo. Incluye desglose por denominación de billetes, sin monedas ni vales registrados, y un valor total en facturas por $480.000.' style="max-width: 600px")
     
       Separador
       <!-- BLOQUE 4 -->
@@ -630,7 +630,7 @@
           h5 Figura 4. 
           span Formato de conciliación bancaria
         figure(data-aos="fade-up").ajuste-image__bloque3-1
-          img(src='@/assets/curso/tema1/img40.svg', alt='' style="max-width: 800px")
+          img(src='@/assets/curso/tema1/img40.svg', alt='Tabla de conciliación bancaria con campos para datos de empresa, cuenta y fecha de corte. Incluye secciones para consignaciones y cheques pendientes, notas crédito y débito bancarias con columnas para concepto, fecha y valor, así como el total del saldo según libros a febrero de 2020.' style="max-width: 800px")
 
       .row.mb-4
         .col-xl-1
@@ -644,7 +644,7 @@
               h5 Figura 5. 
               span Formato de conciliación bancaria comparativa
             figure(data-aos="fade-up").ajuste-image__bloque3-1
-              img(src='@/assets/curso/tema1/img41.svg', alt='' style="max-width: 1050px")
+              img(src='@/assets/curso/tema1/img41.svg', alt='Tabla de conciliación bancaria con columnas divididas para consignaciones, notas crédito, cheques y notas débito no conciliadas con extracto y con libros. Incluye secciones para registrar fecha, concepto y valor, además de totales parciales y finales para libros y extracto, con campos para calcular diferencias.' style="max-width: 1050px")
 
     .row.mb-3.ajuste-espacios-movil
       .col-xl-1
@@ -663,7 +663,7 @@
           h5 Figura 6. 
           span Comparativo de saldos y partidas conciliatorias
         figure(data-aos="fade-up").ajuste-image__bloque3-1
-          img.mb-4(src='@/assets/curso/tema1/img43.svg', alt='' style="max-width: 650px")
+          img.mb-4(src='@/assets/curso/tema1/img43.svg', alt='Tabla con comparación entre saldo del libro auxiliar y saldo del extracto bancario, seguida de valores no registrados en libros como notas débito y crédito, y valores no registrados en el extracto como consignaciones en tránsito y cheques pendientes de cobro, cada uno con su valor correspondiente.' style="max-width: 650px")
     
       .row.mb-4
         .col-xl-auto
@@ -727,7 +727,7 @@
             h5 Figura 7. 
             span Conciliación bancaria con método de saldos correctos - Julio 2020
           figure(data-aos="fade-up").ajuste-image__bloque3-1
-            img.mb-4(src='@/assets/curso/tema1/img46.svg', alt='' style="max-width: 1050px")
+            img.mb-4(src='@/assets/curso/tema1/img46.svg', alt='Formato de conciliación bancaria que compara partidas no conciliadas con extracto y con libros, separadas en consignaciones, notas crédito, cheques y notas débito, con sus respectivas fechas, conceptos y valores. Incluye totales parciales, saldos finales según libros y extracto, sumatoria de partidas conciliatorias y cálculo final de diferencia igual a cero.' style="max-width: 1050px")
       
       .row.mb-4.ajuste-espacios-movil
         .col-xl-1
@@ -741,7 +741,7 @@
             h5 Figura 8. 
             span Conciliación bancaria con método de saldos encontrados - Julio 2020
           figure(data-aos="fade-up").ajuste-image__bloque3-1
-            img.mb-4(src='@/assets/curso/tema1/img47.svg', alt='' style="max-width: 1050px")
+            img.mb-4(src='@/assets/curso/tema1/img47.svg', alt='Formato de conciliación bancaria que presenta el saldo del extracto, valores pendientes por registrar en libros como consignaciones y cheques, y valores no registrados en el extracto como notas débito. Incluye fechas, conceptos, valores y cálculo del saldo final según libros, con diferencia contable igual a cero.' style="max-width: 1050px")
       
       .row.ajuste-espacios-movil
         .col-xl-1

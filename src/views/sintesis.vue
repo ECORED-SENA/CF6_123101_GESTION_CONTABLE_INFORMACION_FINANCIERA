@@ -6,7 +6,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="")
+          img(src="@/assets/curso/sintesis.svg", alt="Síntesis  sobre el manejo contable del efectivo y sus equivalentes según normas internacionales que organiza seis áreas clave: definición de efectivo y equivalentes, política contable, reconocimiento y medición, arqueo de caja, conciliación bancaria y ajuste por diferencia en cambio. Incluye elementos como normativas aplicables (NIC 7, NIC 21, NIIF 7, NIIF 9), procedimientos contables, control interno, formatos de arqueo y efectos de la conversión de moneda.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

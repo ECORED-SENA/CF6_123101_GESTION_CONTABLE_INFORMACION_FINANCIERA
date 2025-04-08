@@ -114,41 +114,20 @@ export default {
   },
   complementario: [
     {
-      tema: 'Contabilidad General (4ª ed.). Ecoe Ediciones.',
+      tema: 'Política contable',
       referencia:
-        'Fierro Martínez, Ángel María (2011). Contabilidad General (4ª ed.). Ecoe Ediciones.',
-      tipo: 'Sitio web',
+        'International Accounting Standards Board (IASB). (2009). NIC 7: Estados de Flujos de Efectivo. En Normas Internacionales de Información Financiera (NIIF).',
+      tipo: 'Página web',
       link:
-        'http://www.digitaliapublishing.com.bdigital.sena.edu.co/visor/29895#',
+        'https://www.ifrs.org/issued-standards/list-of-standards/ias-7-statement-of-cash-flows/',
     },
     {
-      tema:
-        'Contabilidad de activos con enfoque NIIF para pymes (3ª ed.). Ecoe Ediciones.',
+      tema: 'Reconocimiento, medición, presentación y revelación',
       referencia:
-        'Fierro Martínez, Ángel María (2015). Contabilidad de activos con enfoque NIIF para pymes (3ª ed.). Ecoe Ediciones.',
-      tipo: 'Sitio web',
+        'International Accounting Standards Board (IASB). (2023). Enmiendas a la NIC 7 sobre acuerdos de financiación de proveedores.',
+      tipo: 'Página web',
       link:
-        'http://www.digitaliapublishing.com.bdigital.sena.edu.co/visor/39427',
-    },
-    {
-      tema: 'Decreto 2270 de 2019',
-      referencia: 'Decreto 2270 de 2019',
-      tipo: 'Sitio web',
-      link:
-        'http://www.ctcp.gov.co/noticias/2019/presidencia-de-la-republica-expidio-el-decreto-227',
-    },
-    {
-      tema: 'Elaboración conciliación bancaria',
-      referencia: 'Elaboración conciliación bancaria',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=JguCZCEl5Jg',
-    },
-    {
-      tema: 'Elaboración conciliación',
-      referencia: 'Elaboración conciliación',
-      tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=Zq4z-rvXfYw&list=TLPQMTgwOTIwMjBLvU-jF1v5uA&index=2',
+        'https://www.tendencias.kpmg.es/2023/07/cambios-desgloses-acuerdos-financiacion-de-proveedores/',
     },
   ],
   glosario: [
