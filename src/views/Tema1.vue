@@ -202,7 +202,7 @@
       .col-xl
         LineaTiempoD.color-primario
 
-          .row(numero="1" titulo="Norma Internacional de contabilidad (NIC) 32 - Instrumentos financieros: presentación, que expresa lo siguiente")
+          .row(numero="1" titulo="Norma Internacional de contabilidad (NIC) 32 - Instrumentos financieros: presentación, que expresa lo siguiente:")
             .col-lg.mb-md-0.ajuste-margen-lineatiempo
               p <strong>Objetivo</strong>: el objetivo de esta norma es establecer principios para presentar los instrumentos financieros como pasivos o patrimonio y para compensar activos y pasivos financieros.
               p Aplica a la clasificación de los instrumentos financieros (desde la perspectiva del emisor) en activos y pasivos financieros, e instrumentos de patrimonio; en la clasificación de los intereses, dividendos, pérdidas y ganancias relacionadas con ellos, y en las circunstancias que obligan a la compensación de activos y pasivos financieros.
@@ -210,6 +210,7 @@
 
           .row(numero="2" titulo="Norma Internacional de Información Financiera (NIIF) 7- Instrumentos financieros: información a revelar")
             .col-lg.mb-md-0.ajuste-margen-lineatiempo
+              h5.mb-4 Objetivo:
               ol.lista-ol--cuadro-bloque1.mb-0
                 li.mb-3 
                   .lista-ol--cuadro__vineta
@@ -758,7 +759,7 @@
                     .col-xl
                       p.m-0 Angulo, U. (2018). Contabilidad financiera, correlacionado con NIIF. (2a. ed.) Ediciones de la U.
                     .col-xl-auto
-                      a.boton.color-acento-botones.texto-blanco.b--rad(:href="obtenerLink('http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=8047')" target="_blank" type="application/pdf")
+                      a.boton.color-acento-botones.texto-blanco.b--rad(:href="('http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=8047')" target="_blank" type="application/pdf")
                         span Ver
                         <i class="fas fa-link"></i>
                         
@@ -824,13 +825,13 @@
 
       .row
         .col-xl
-          a.anexo.ajuste__movil_anexo.mb-4.mb-lg-0(href="http://www.ctcp.gov.co/noticias/2019/presidencia-de-la-republica-expidio-el-decreto-227" target="_blank")
+          a.anexo.ajuste__movil_anexo.mb-4.mb-lg-0.anexo__ajuste(href="http://www.ctcp.gov.co/noticias/2019/presidencia-de-la-republica-expidio-el-decreto-227" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
               p <strong>Enlace web.</strong> Decreto 2270 de 2019
         .col-xl
-          a.anexo.ajuste__movil_anexo.mb-4(:href="obtenerLink('http://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/enmiendas-niif-16-y-segundo-semestre-2016/1514470523-2378')" target="_blank")
+          a.anexo.ajuste__movil_anexo.mb-4.anexo__ajuste(:href="('http://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/enmiendas-niif-16-y-segundo-semestre-2016/1514470523-2378')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-pdf.svg")
             .anexo__texto
