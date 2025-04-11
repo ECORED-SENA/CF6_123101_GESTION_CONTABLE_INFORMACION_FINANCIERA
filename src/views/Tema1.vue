@@ -110,7 +110,7 @@
               </ul>
         .col-xl-auto
           figure(data-aos="fade-up").d-none.d-xl-block
-            img(src="@/assets/curso/tema1/img5.png", alt="alt" style="width: 300px").m-auto
+            img(src="@/assets/curso/tema1/img5.png", alt="" style="width: 300px").m-auto
                    
     Separador
     <!-- BLOQUE 1 -->
@@ -537,7 +537,7 @@
           .ajuste-caja-text-bloque4.h-100(data-aos="flip-left")
             .col
               figure.mb-3
-                img(src='@/assets/curso/tema1/img34.svg', alt='T' style="max-width: 95px").m-auto
+                img(src='@/assets/curso/tema1/img34.svg', alt='' style="max-width: 95px").m-auto
               p.mb-0 Transacciones contabilizadas por la empresa y no registradas por el banco.
         .col-xl-4.espacio__cajas_movil
           .ajuste-caja-text-bloque4.h-100(data-aos="flip-left")
