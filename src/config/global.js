@@ -184,13 +184,12 @@ export default {
   referencias: [
     {
       referencia: 'Amador, A. (2011). Conciliación bancaría.',
-      link:
-        'http://files.sena-contable.webnode.es/200000504-9a9dd9b934/Conciliaci%C3%B2n%20Bancaria.pdf ',
+      link: '',
     },
     {
       referencia:
         'Angulo, U. (2018). Contabilidad financiera, correlacionado con NIIF. (2a. ed.) Ediciones de la U.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=8047',
+      link: '',
     },
     {
       referencia:
@@ -214,13 +213,12 @@ export default {
       referencia:
         'Fierro Martínez, Ángel María (2011). Contabilidad General (4ª ed.). Ecoe Ediciones. ',
       link:
-        'http://www.digitaliapublishing.com.bdigital.sena.edu.co/visor/29895#',
+        'https://normasinternacionalesdecontabilidad.es/normas-internacionales/',
     },
     {
       referencia:
         'Fierro Martínez, Ángel María (2015). Contabilidad de activos con enfoque NIIF para pymes (3ª ed.). Ecoe Ediciones.',
-      link:
-        'http://www.digitaliapublishing.com.bdigital.sena.edu.co/visor/39427',
+      link: '',
     },
     {
       referencia:
@@ -234,8 +232,7 @@ export default {
     {
       referencia:
         'Moncayo, C. Definición de activos y pasivos en las normas internacionales de información financiera (NIIF). Instituto Nacional de Contadores Públicos de Colombia. ',
-      link:
-        'https://www.incp.org.co/definicion-de-activos-y-pasivos-en-las-normas-internacionales-de-informacion-financiera-niif/',
+      link: '',
     },
     {
       referencia: 'Normas Internacionales de Contabilidad. ',
@@ -244,7 +241,7 @@ export default {
     },
     {
       referencia:
-        'Sinisterra V., Polanco L., y Henao H. (2011). Contabilidad: sistema de información para las organizaciones. <em>Mc. Graw Hill.</em>  ',
+        'Sinisterra V., Polanco L., y Henao H. (2011). Contabilidad: sistema de información para las organizaciones. Mc. Graw Hill.  ',
       link: '',
     },
     {
@@ -252,20 +249,42 @@ export default {
         'Varón, L. (2018). Efectivo y equivalentes al efectivo (Nic). ',
       link: 'https://www.gerencie.com/efectivo-y-equivalentes-al-efectivo.html',
     },
+    {
+      referencia: 'IFRS.  (2014). NIIF 9 Instrumentos Financieros.',
+      link:
+        'https://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-discusion-publica/enmienda-a-la-niif-9-instrumentos/doc-ctcp-xl8w9-141',
+    },
+    {
+      referencia:
+        'Instituto Nacional de Contadores Públicos de Colombia. (2020). Norma Internacional de Contabilidad 7: estado de flujos de efectivo. Normas Internacionales de Información Financiera. ',
+      link:
+        'http://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/compilacion-marcos-tecnicos-de-informacion-financi/1534368973-9784  ',
+    },
+    {
+      referencia:
+        'Ministerio de Comercio, Industria y Turismo. (2019). Decreto 2270 de 2019: Por el cual se modifican los marcos técnicos normativos que conforman el régimen de contabilidad aplicable en Colombia. Diario Oficial 51107.',
+      link:
+        'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=89496',
+    },
+    {
+      referencia:
+        'Normas Internacionales de Contabilidad. (s.f.). Normas Internacionales de Contabilidad vigentes.',
+      link: '',
+    },
   ],
   creditos: [
     {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Líder del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Olga Constanza Bermudez Jaimes',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Dirección General',
         },
       ],
     },
@@ -273,9 +292,15 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Patricia Mantilla Galvis',
+          cargo: 'Experto temático',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Maryuri Agudelo Franco',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
       ],
     },
@@ -283,34 +308,86 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Blanca Flor Tinoco Torres ',
+          cargo: 'Diseñador de contenidos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Robinson Javier Ordoñez Barreiro',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Ángela María Maldonado Jaime',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Laura Gisselle Murcia Pardo',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Víctor Raúl Cárdenas Cáceres',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Zuleidy Maria Ruiz Torres',
+          cargo: 'Producción audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
     {
-      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      titulo: 'GESTORES DE REPOSITORIO',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Raúl Mosquera Serrano',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },

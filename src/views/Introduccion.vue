@@ -2,7 +2,7 @@
 .curso-main-container.introduccion
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span
           i.fas.fa-info
@@ -19,9 +19,9 @@
               img(src="@/assets/curso/intro/img2.svg", alt="" style="max-width: 95px").m-auto
           .col-xl-10
             p El manejo adecuado del efectivo y sus equivalentes es esencial para la sostenibilidad financiera de cualquier organización. Estos recursos, al formar parte del activo corriente, permiten responder a las obligaciones inmediatas y facilitan la toma de decisiones relacionadas con la inversión y la liquidez empresarial. Por ello, su correcta clasificación y administración resulta clave dentro del proceso contable.
-        p.mb-0.caja-text-intro-1 Este componente formativo ofrece las herramientas necesarias para comprender los criterios de reconocimiento, medición, presentación y revelación del efectivo y sus equivalentes, conforme a los estándares establecidos por la Norma Internacional de Contabilidad 7. Además, se abordan conceptos como la caja general, caja menor, depósitos bancarios e inversiones a corto plazo, los cuales son fundamentales para el desarrollo de políticas contables efectivas.
+        p.mb-0.caja-text-intro-1(data-aos="fade-left") Este componente formativo ofrece las herramientas necesarias para comprender los criterios de reconocimiento, medición, presentación y revelación del efectivo y sus equivalentes, conforme a los estándares establecidos por la Norma Internacional de Contabilidad 7. Además, se abordan conceptos como la caja general, caja menor, depósitos bancarios e inversiones a corto plazo, los cuales son fundamentales para el desarrollo de políticas contables efectivas.
 
-    .row.m-0.align-items-center.caja-text-intro-2
+    .row.m-0.align-items-center.caja-text-intro-2(data-aos="fade-up")
       .col-xl
         .row.align-items-center
           .col-xl-3.m-0

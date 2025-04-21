@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
       h1 Efectivo y equivalentes al efectivo
@@ -10,7 +10,7 @@
     <!-- BLOQUE 0 -->
     .row.mb-5
       .col-xl
-        p.mb-0.caja-text-tema1.mb-3 Las empresas en el desarrollo normal de sus operaciones deben aplicar criterios y lineamientos para el adecuado manejo del efectivo y sus equivalentes. El objetivo es tener la habilidad para tomar decisiones que aumenten la capacidad de generar liquidez y, de esta manera, atender las necesidades de la organización o, en su defecto, realizar inversiones que generen rentabilidad. El efectivo y equivalentes al efectivo pertenecen al activo corriente del estado de la situación financiera.
+        p.mb-0.caja-text-tema1.mb-3(data-aos="fade-right") Las empresas en el desarrollo normal de sus operaciones deben aplicar criterios y lineamientos para el adecuado manejo del efectivo y sus equivalentes. El objetivo es tener la habilidad para tomar decisiones que aumenten la capacidad de generar liquidez y, de esta manera, atender las necesidades de la organización o, en su defecto, realizar inversiones que generen rentabilidad. El efectivo y equivalentes al efectivo pertenecen al activo corriente del estado de la situación financiera.
         p.mb-0 Teniendo en cuenta lo anterior, es importante conocer su clasificación; por ende, se analizarán los conceptos necesarios que permitan continuar con los lineamientos para el diseño de políticas contables que le conciernen:
       .col-xl-auto
         figure(data-aos="fade-left").d-none.d-xl-block
@@ -26,7 +26,7 @@
     p.mb-5.ajuste-espacios-movil Hace referencia al dinero que se encuentra en caja general, caja menor y en las entidades financieras, que son de disponibilidad inmediata. A continuación, se presentan las definiciones de cada una de estas:
 
     .row.mb-5.ajuste-espacios-movil
-      .col-xl
+      .col-xl(data-aos="fade-right")
         TabsA.color-acento-botones.mb-4
           .tarjeta.color-acento-botones--borde.p-4(titulo="Caja general")
             h4 Caja general
@@ -52,13 +52,13 @@
 
     .row.mb-5.align-items-center.ajuste-espacios-movil
       .col-xl-auto
-        figure(data-aos="fade-up").d-none.d-xl-block
+        figure(data-aos="fade-right").d-none.d-xl-block
           img(src="@/assets/curso/tema1/img4.png", alt="" style="max-width: 450px").m-auto
       .col-xl
         p De acuerdo con la Norma Internacional de Contabilidad (NIC) 7 “Estados de flujos de efectivo”, expresa lo siguiente sobre los equivalentes al efectivo:
         .row
           .col-xl
-            ol.lista-ol--cuadro.lista-ol--separador(data-aos="fade-up")
+            ol.lista-ol--cuadro.lista-ol--separador(data-aos="fade-left")
               li 
                 .lista-ol--cuadro__vineta
                   span a
@@ -91,7 +91,7 @@
 
     .bg--img_03.ajuste-espacios-movil
       .row.h-100.align-items-center
-        .col-xl
+        .col-xl(data-aos="fade-right")
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")
             .row(titulo="De acuerdo con la intención de realización").ajuste-cajaAcordion
               <ul class="fa-ul">
@@ -114,7 +114,7 @@
                    
     Separador
     <!-- BLOQUE 1 -->
-    #t_1_1.titulo-segundo.color-acento-contenido
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Política contable
 
     p.mb-5 Las políticas contables son las bases, normas y procedimientos que debe tener en cuenta una entidad para la medición, presentación y revelación de los elementos de los Estados Financieros.
@@ -125,7 +125,7 @@
           img(src="@/assets/curso/tema1/img6.svg", alt="" style="max-width: 400px").m-auto
       .col-xl
         p Así mismo, es importante definir las directrices para dar cumplimiento a dichos criterios, los cuales varían de acuerdo con el tipo de negocio y al entorno en el cual se desenvuelve.
-        .row.caja-text-img-tema1.align-items-center.m-0
+        .row.caja-text-img-tema1.align-items-center.m-0(data-aos="fade-left")
           .col-xl-auto
             figure(data-aos="fade-up").d-none.d-xl-block
               img(src="@/assets/curso/tema1/img7.svg", alt="" style="max-width: 100px").m-auto
@@ -134,7 +134,7 @@
         p.mb-0 Por lo anterior, para el diseño de políticas contables, del efectivo y sus equivalentes, es importante tener en cuenta, que estos hacen parte del activo; por ende, debe incluir como mínimo:
               
     .row.fondo-slider.mb-5.ajuste-espacios-movil
-      .ajuste-slider
+      .ajuste-slider(data-aos="fade-up")
         SlyderA(tipo="b")
           .row.h-100.justify-content-center.align-items-center
             .col-lg-6.mb-4.col-xs-12
@@ -197,11 +197,10 @@
 
     .row.align-items-center
       .col-xl-auto
-        figure.d-none.d-xl-block.img-flout
+        figure.d-none.d-xl-block(data-aos="fade-right")
           img(src="@/assets/curso/tema1/img15.png", alt='', style="max-width: 300px" ).m-auto
       .col-xl
-        LineaTiempoD.color-primario
-
+        LineaTiempoD.color-primario(data-aos="fade-up")
           .row(numero="1" titulo="Norma Internacional de contabilidad (NIC) 32 - Instrumentos financieros: presentación, que expresa lo siguiente:")
             .col-lg.mb-md-0.ajuste-margen-lineatiempo
               p <strong>Objetivo</strong>: el objetivo de esta norma es establecer principios para presentar los instrumentos financieros como pasivos o patrimonio y para compensar activos y pasivos financieros.
@@ -241,14 +240,14 @@
 
     Separador
     <!-- BLOQUE 2 -->
-    #t_1_2.titulo-segundo.color-acento-contenido
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2 Reconocimiento, medición, presentación y revelación
     
     p.mb-5  Una vez se ha realizado el proceso de reconocimiento de la definición de activos, es importante aplicar los criterios al efectivo y sus equivalentes, teniendo en cuenta lo siguiente:
 
     .row.ajuste-espacios-movil
       .col-xl
-        TabsA.color-acento-botones.mb-4
+        TabsA.color-acento-botones.mb-4(data-aos="fade-up")
           .tarjeta.color-acento-botones--borde.p-4(titulo="Reconocimiento de efectivo")
             .row.align-items-center
               .col-xl.mb-3
@@ -286,7 +285,7 @@
 
     Separador.ajuste-espacios-movil
     <!-- BLOQUE 3 -->
-    #t_1_3.titulo-segundo.color-acento-contenido
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.3 Arqueo de caja
 
     p.mb-4 El <strong>arqueo de caja</strong> es un procedimiento contable que permite verificar la existencia física del dinero en efectivo, comparándola con los registros contables. Este control es fundamental para prevenir errores o irregularidades en el manejo de fondos, tanto en caja general como en caja menor. 
@@ -298,10 +297,10 @@
       .col-xl
         p.mb-0 El siguiente video complementa este tema al presentar recomendaciones prácticas para el control de caja, destacando aspectos como el uso de software contable, la consignación oportuna de recursos y la elaboración de soportes contables:
     
-    .video.mb-5.ajuste-espacios-movil
+    .video.mb-5.ajuste-espacios-movil(data-aos="fade-up")
       <iframe width="560" height="315" src="https://www.youtube.com/embed/rpicwosfieU" title="Arqueo de caja" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-    .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-up")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img21.png')})`}"
       )
@@ -513,12 +512,12 @@
     
       Separador
       <!-- BLOQUE 4 -->
-      #t_1_4.titulo-segundo.color-acento-contenido
+      #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 1.4 Conciliación Bancaria
       
       p.mb-4 La <strong>conciliación bancaria</strong> es un procedimiento que permite comparar los registros contables de una empresa con el extracto emitido por la entidad financiera. Su objetivo es identificar y analizar las diferencias entre ambos saldos, asegurando la veracidad de la información registrada. Este proceso facilita el control interno, la detección de errores u omisiones, y la toma de decisiones contables oportunas.
     
-    .video.mb-5
+    .video.mb-5(data-aos="fade-up")
       <iframe width="560" height="315" src="https://www.youtube.com/embed/FgKN_MPbQLk" title="Conciliación bancaria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
     .row.fondo-img
@@ -555,7 +554,7 @@
       .row.mb-4.align-items-center
         .col-xl
           p.mb-4 Las siguientes, son las etapas que deben seguirse para preparar una conciliación bancaria:
-          ol.lista-ol--cuadro.lista-ol--separador(data-aos="fade-up")
+          ol.lista-ol--cuadro.lista-ol--separador(data-aos="fade-right")
             li 
               .lista-ol--cuadro__vineta
                 span a
@@ -573,7 +572,7 @@
                 span d
               | Totalizar las correcciones de cheques girados en los libros auxiliares.
         .col-xl-auto
-          figure(data-aos="fade-up").d-none.d-xl-block
+          figure(data-aos="fade-left").d-none.d-xl-block
             img(src="@/assets/curso/tema1/img37.png", alt="" style="max-width: 450px").m-auto
 
     p.mb-4 A continuación, observa la estructura básica de elaboración de la conciliación bancaria (Conciliación bancaria, s.f., párr.14):
@@ -713,7 +712,7 @@
                       td.ajuste-border-tabla.texto-left Saldo ajustado al extracto
                       td.texto-right $ 603.022 
             .col-xl-4
-              figure(data-aos="fade-up").d-none.d-xl-block
+              figure(data-aos="fade-left").d-none.d-xl-block
                 img(src='@/assets/curso/tema1/img45.svg', alt='' style="max-width: 400px")
 
       .row.mb-4
@@ -750,18 +749,13 @@
           .row.align-items-center
             .col-xl
               p Con el fin de profundizar en el proceso de elaboración de la conciliación bancaria, es importante explorar la Biblioteca SENA y los siguientes enlaces:
-              .row.caja-text-img-tema1-4.align-items-center.m-0
+              .row.caja-text-img-tema1-4.align-items-center.m-0(data-aos="fade-up")
                 .col-xl-auto
                   figure(data-aos="fade-right").d-none.d-xl-block
                     img(src='@/assets/curso/tema1/img48.svg', alt='' style="max-width: 300px").m-auto
                 .col-xl
-                  .row.align-items-center
-                    .col-xl
-                      p.m-0 Angulo, U. (2018). Contabilidad financiera, correlacionado con NIIF. (2a. ed.) Ediciones de la U.
-                    .col-xl-auto
-                      a.boton.color-acento-botones.texto-blanco.b--rad(:href="('http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=8047')" target="_blank" type="application/pdf")
-                        span Ver
-                        <i class="fas fa-link"></i>
+                  p.m-0 Angulo, U. (2018). Contabilidad financiera, correlacionado con NIIF. (2a. ed.) Ediciones de la U.
+                    
                         
             .col-xl-auto
               figure(data-aos="fade-left").d-none.d-xl-block
@@ -769,7 +763,7 @@
 
     Separador
     <!-- BLOQUE 5 -->
-    #t_1_5.titulo-segundo.color-acento-contenido
+    #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.5 Ajuste por diferencia en cambio
     
     p.mb-5 Las empresas se encuentran expuestas al riesgo cambiario, teniendo en cuenta que realizan operaciones en moneda extranjera; con base en ello, es importante aplicar las normas internacionales en el registro de los hechos económicos.
@@ -804,7 +798,7 @@
         .col-xl-auto
           figure(data-aos="fade-right").d-none.d-xl-block
             img(src='@/assets/curso/tema1/img52.svg', alt='' style="max-width: 400px").m-auto
-        .col-xl
+        .col-xl(data-aos="fade-left")
           ol.caja-text-img-tema1-5
             li 
               .lista-ol--cuadro__vineta
