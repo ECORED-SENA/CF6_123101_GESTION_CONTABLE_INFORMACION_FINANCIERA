@@ -298,7 +298,7 @@
         p.mb-0 El siguiente video complementa este tema al presentar recomendaciones prácticas para el control de caja, destacando aspectos como el uso de software contable, la consignación oportuna de recursos y la elaboración de soportes contables:
     
     .video.mb-5.ajuste-espacios-movil(data-aos="fade-up")
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/rpicwosfieU" title="Arqueo de caja" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/jinh7tuUY2s" title="Arqueo de caja" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-up")
       .bloque-texto-g__img(
@@ -518,7 +518,7 @@
       p.mb-4 La <strong>conciliación bancaria</strong> es un procedimiento que permite comparar los registros contables de una empresa con el extracto emitido por la entidad financiera. Su objetivo es identificar y analizar las diferencias entre ambos saldos, asegurando la veracidad de la información registrada. Este proceso facilita el control interno, la detección de errores u omisiones, y la toma de decisiones contables oportunas.
     
     .video.mb-5(data-aos="fade-up")
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/FgKN_MPbQLk" title="Conciliación bancaria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/L3WN5YPuX_w" title="Conciliación bancaria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
     .row.fondo-img
       .col-xl
