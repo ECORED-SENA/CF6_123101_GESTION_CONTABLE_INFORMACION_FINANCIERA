@@ -347,22 +347,22 @@
             tbody
               tr
                 td.ajuste-border-tabla.texto-left Elementos de aseo
-                td.texto-right $ 120.000
+                td.texto-right $120.000
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Papelería
-                td.texto-right $ 80.000
+                td.texto-right $80.000
               tr  
                 td.ajuste-border-tabla.texto-left Transporte
-                td.texto-right $ 150.000
+                td.texto-right $150.000
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Almuerzos 
-                td.texto-right $ 80.000 
+                td.texto-right $80.000 
               tr  
                 td.ajuste-border-tabla.texto-left Gasolina
-                td.texto-right $ 50.000
+                td.texto-right $50.000
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla.texto-left <strong>TOTAL</strong>
-                td.texto-right <strong>$ 480.000</strong>
+                td.ajuste-border-tabla.texto-left <strong>Total</strong>
+                td.texto-right <strong>$480.000</strong>
     
     .row.mb-3.align-items-center
       .col-xl-1
@@ -394,16 +394,16 @@
             tbody
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Caja Menor
-                td.ajuste-border-tabla $ 500.000
-                td -
+                td.ajuste-border-tabla.texto-right $500.000
+                td.texto-right -
               tr
                 td.ajuste-border-tabla.texto-left Bancos
-                td.ajuste-border-tabla -
-                td $ 500.000
+                td.ajuste-border-tabla.texto-right -
+                td.texto-right $500.000
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla.texto-left <strong>TOTAL</strong>
-                td.ajuste-border-tabla <strong>$ 500.000</strong>
-                td <strong>$ 500.000</strong>
+                td.ajuste-border-tabla.texto-left <strong>Total</strong>
+                td.ajuste-border-tabla.texto-right $500.000
+                td.texto-right $500.000
       .col-xl-4
         figure(data-aos="fade-right").d-none.d-xl-block
           img(src="@/assets/curso/tema1/img26.svg" style="max-width: 400px").m-auto
@@ -461,32 +461,32 @@
             tbody
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Combustibles y lubricantes
-                td.ajuste-border-tabla.texto-right $ 50.000
+                td.ajuste-border-tabla.texto-right $50.000
                 td.texto-right -
               tr
                 td.ajuste-border-tabla.texto-left Elementos de aseo
-                td.ajuste-border-tabla.texto-right $ 120.000
+                td.ajuste-border-tabla.texto-right $120.000
                 td.texto-right -
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Transporte y fletes
-                td.ajuste-border-tabla.texto-right $ 150.000
+                td.ajuste-border-tabla.texto-right $150.000
                 td.texto-right -
               tr
                 td.ajuste-border-tabla.texto-left Útiles, papelería y fotocopias
-                td.ajuste-border-tabla.texto-right $ 80.000
+                td.ajuste-border-tabla.texto-right $80.000
                 td.texto-right -
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Casino y restaurante
-                td.ajuste-border-tabla.texto-right $ 80.000
+                td.ajuste-border-tabla.texto-right $80.000
                 td.texto-right -
               tr
                 td.ajuste-border-tabla.texto-left Bancos
                 td.ajuste-border-tabla.texto-right -
-                td.texto-right $ 480.000
+                td.texto-right $480.000
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla.texto-left <strong>TOTAL</strong>
-                td.ajuste-border-tabla.texto-right <strong>$ 480.000</strong>
-                td.texto-right <strong>$ 480.000</strong>
+                td.ajuste-border-tabla.texto-left <strong>Total</strong>
+                td.ajuste-border-tabla.texto-right <strong>$480.000</strong>
+                td.texto-right <strong>$480.000</strong>
       .col-xl-4
         figure(data-aos="fade-right").d-none.d-xl-block
           img(src="@/assets/curso/tema1/img29.svg" style="max-width: 400px").m-auto
@@ -689,28 +689,28 @@
                   tbody
                     tr
                       td.ajuste-border-tabla.texto-left Saldo en libros
-                      td.texto-right $ 1.170.122 
+                      td.texto-right $1.170.122 
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left Menos: Notas débito
-                      td.texto-right $ 579.666 
+                      td.texto-right $579.666 
                     tr
                       td.ajuste-border-tabla.texto-left Más: Notas crédito
-                      td.texto-right $ 12.566 
+                      td.texto-right $12.566 
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left Saldo ajustado en libros
-                      td.texto-right $ 603.022 
+                      td.texto-right $603.022 
                     tr
                       td.ajuste-border-tabla.texto-left Saldo en extracto bancario a 31 marzo
-                      td.texto-right $ 8.955.336 
+                      td.texto-right $8.955.336 
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left Más: consignaciones en tránsito
-                      td.texto-right $ 1.955.336 
+                      td.texto-right $1.955.336 
                     tr
                       td.ajuste-border-tabla.texto-left Menos: cheques girados y no cobrados
-                      td.texto-right $ 10.307.650 
+                      td.texto-right $10.307.650 
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left Saldo ajustado al extracto
-                      td.texto-right $ 603.022 
+                      td.texto-right $603.022 
             .col-xl-4
               figure(data-aos="fade-left").d-none.d-xl-block
                 img(src='@/assets/curso/tema1/img45.svg', alt='' style="max-width: 400px")
