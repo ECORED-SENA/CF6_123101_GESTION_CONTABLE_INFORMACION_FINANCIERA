@@ -141,7 +141,7 @@
               h4.mb-4 Reconocimiento de los activos
               p Debe dar cumplimiento al concepto de activo, de acuerdo con los elementos que lo componen para el proceso de incorporación en el Estado de situación financiera.
               p Recordemos que un <strong>activo</strong> es “un recurso controlado por la entidad como resultado de sucesos pasados, del que la entidad espera obtener, en el futuro, beneficios económicos” (Moncayo, 2016, párr.1).
-              p.mb-0 Los activos se reconocen en el momento que se presenta la transacción en efectivo o es transferido a una entidad financiera.
+              p.mb-0 Los activos se reconocen en el momento en que se presenta la transacción en efectivo o es transferido a una entidad financiera.
             .col-lg-6
               figure
                 img(src='@/assets/curso/tema1/img8.png', alt='')
@@ -295,7 +295,7 @@
         figure(data-aos="fade-right").d-none.d-xl-block
           img(src="@/assets/curso/tema1/img20.svg", alt="" style="max-width: 400px").m-auto
       .col-xl
-        p.mb-0 El siguiente video complementa este tema al presentar recomendaciones prácticas para el control de caja, destacando aspectos como el uso de software contable, la consignación oportuna de recursos y la elaboración de soportes contables:
+        p.mb-0 El siguiente video complementa este tema al presentar recomendaciones prácticas para el control de caja, destacando aspectos como el uso de #[i software] contable, la consignación oportuna de recursos y la elaboración de soportes contables:
     
     .video.mb-5.ajuste-espacios-movil(data-aos="fade-up")
       <iframe width="560" height="315" src="https://www.youtube.com/embed/jinh7tuUY2s" title="Arqueo de caja" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -783,7 +783,7 @@
       .row.mb-4.align-items-center.mb-5
         .col-xl
           p Una entidad puede llevar a cabo actividades en el extranjero de dos maneras diferentes. Puede realizar transacciones en moneda extranjera o bien puede tener negocios en el extranjero. Además, una entidad puede presentar sus estados financieros en una moneda extranjera. El objetivo de esta norma es prescribir cómo se incorporan, en los estados financieros de una entidad, las transacciones en moneda extranjera y los negocios en el extranjero, y cómo convertir los estados financieros a la moneda de presentación elegida. 
-          p.mb-0 Los principales problemas que se presentan son la tasa o tasas de cambio a utilizar, así como la manera de informar sobre los efectos de las variaciones en las tasas de cambio dentro de los estados financieros. Consejo Técnico de la contaduría pública (CTCP, 2019c, p.503).
+          p.mb-0 Los principales problemas que se presentan son la tasa o tasas de cambio a utilizar, así como la manera de informar sobre los efectos de las variaciones en las tasas de cambio dentro de los estados financieros. Consejo Técnico de la Contaduría Pública (CTCP, 2019c, p.503).
         .col-xl-auto
           figure(data-aos="fade-left").d-none.d-xl-block
             img(src='@/assets/curso/tema1/img51.svg', alt='' style="max-width: 400px").m-auto
