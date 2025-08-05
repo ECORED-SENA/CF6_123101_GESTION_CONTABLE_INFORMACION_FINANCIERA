@@ -20,10 +20,10 @@ export default {
       tema: 'Manejo del efectivo y sus equivalentes en la gestión contable',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Identificar los conceptos clave relacionados con el manejo del efectivo, equivalentes al efectivo, políticas contables, arqueo de caja, conciliación bancaria y ajustes por diferencia en cambio según normativas internacionales.',
+        '<b> Objetivo:</b> identificar los conceptos clave relacionados con el manejo del efectivo, equivalentes al efectivo, políticas contables, arqueo de caja, conciliación bancaria y ajustes por diferencia en cambio según normativas internacionales.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,
@@ -58,7 +58,7 @@ export default {
         {
           id: 2,
           texto: 'Según la NIC 7, un equivalente al efectivo debe:',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -89,7 +89,7 @@ export default {
           id: 3,
           texto:
             '¿Cuál de las siguientes opciones describe mejor una inversión de renta variable?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -119,7 +119,7 @@ export default {
         {
           id: 4,
           texto: 'Las políticas contables establecen:',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -151,7 +151,7 @@ export default {
           id: 5,
           texto:
             '¿Qué se debe hacer si durante un arqueo de caja se encuentra un faltante?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -213,7 +213,7 @@ export default {
           id: 7,
           texto:
             '¿Cuál es una característica de la presentación en los estados financieros?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -244,7 +244,7 @@ export default {
         {
           id: 8,
           texto: '¿Cuál es uno de los objetivos de la conciliación bancaria?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -276,7 +276,7 @@ export default {
           id: 9,
           texto:
             '¿Cuál de las siguientes afirmaciones sobre el efectivo es verdadera?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -306,7 +306,7 @@ export default {
         {
           id: 10,
           texto: '¿Cuál es el objetivo de la NIC 21?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -359,7 +359,7 @@ export default {
           id: 12,
           texto:
             'La presentación del efectivo en los estados financieros debe seguir las políticas contables de la empresa.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -380,7 +380,7 @@ export default {
           id: 13,
           texto:
             'Un equivalente al efectivo puede tener un vencimiento superior a 90 días.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -401,7 +401,7 @@ export default {
           id: 14,
           texto:
             'La conciliación bancaria permite identificar errores tanto del banco como de la empresa.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -422,7 +422,7 @@ export default {
           id: 15,
           texto:
             'Las inversiones permanentes se clasifican como equivalentes al efectivo.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
